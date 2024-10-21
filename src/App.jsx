@@ -3,6 +3,10 @@ import Navbar from "./Pages/Navbar";
 import Banner from "./Pages/Banner";
 import Relevantes from "./Pages/Relevantes";
 import Compassion from "./Pages/Compassion";
+import Benefits from "./Pages/Benefits";
+import Sermon from "./Pages/Sermon";
+import Service from "./Pages/Service";
+import Blog from "./Pages/Blog";
 
 const App = () => {
   return (
@@ -11,6 +15,10 @@ const App = () => {
       <Banner />
       <Relevantes />
       <Compassion />
+      <Benefits />
+      <Sermon />
+      <Service />
+      <Blog />
     </>
   );
 };

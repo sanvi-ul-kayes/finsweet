@@ -8,6 +8,7 @@ export default {
       },
       backgroundImage: {
         hero: "url(/public/Images/Banner.jpg)",
+        service: "url(/public/Images/Background.jpg)",
       },
     },
   },

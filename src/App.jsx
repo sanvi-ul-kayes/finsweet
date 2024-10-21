@@ -7,6 +7,7 @@ import Benefits from "./Pages/Benefits";
 import Sermon from "./Pages/Sermon";
 import Service from "./Pages/Service";
 import Blog from "./Pages/Blog";
+import Footer from "./Pages/Footer";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
       <Sermon />
       <Service />
       <Blog />
+      <Footer />
     </>
   );
 };

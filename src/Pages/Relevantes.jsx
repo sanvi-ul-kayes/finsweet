@@ -20,7 +20,7 @@ const Relevantes = () => {
           <HeaddingH5 childern="sub-headline" />
           <HeaddingH2 childern="a church that's relevant" />
         </Header>
-        <div className="mt-[64px] flex justify-between text-center">
+        <div className="mt-[64px] flex justify-between">
           <RBoxes>
             <RIconeBox>
               <RIcone children={<GiFlowerTwirl />} />

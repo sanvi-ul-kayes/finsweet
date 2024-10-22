@@ -44,11 +44,11 @@ const Footer = () => {
             <h2 className="text-[32px] font-bold leading-[44px] max-w-[377px] mb-8">
               Subscribe to get Latest Updates and News
             </h2>
-            <div className="w-[512px] border border-[#E5E5E5] rounded-[12px] flex  justify-between text-center">
+            <div className="w-[512px] border-[1px] border-[#E5E5E5] rounded-[12px] flex  justify-between text-center overflow-hidden">
               <input
                 type="text"
                 placeholder="Yourmail@gmail.com "
-                className="w-[311px] border-[#E5E5E5] p-4 text-white bg-[#161722]"
+                className="w-[311px] border-[#E5E5E5] p-4 text-white bg-[#161722] outline-none"
               />
 
               <Button Navname="Subscribe" />

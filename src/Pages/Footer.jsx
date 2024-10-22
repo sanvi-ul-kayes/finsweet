@@ -35,9 +35,9 @@ const Footer = () => {
               Connect{" "}
             </h5>
             <div className="flex justify-between text-center gap-5">
-              <CiFacebook className="text-[#FFD2A4] text-[16px]" />
-              <FiTwitter className="text-[#FFD2A4] text-[16px]" />
-              <CiLinkedin className="text-[#FFD2A4] text-[16px]" />
+              <CiFacebook className="text-[#FFD2A4] text-[25px]" />
+              <FiTwitter className="text-[#FFD2A4] text-[25px]" />
+              <CiLinkedin className="text-[#FFD2A4] text-[25px]" />
             </div>
           </div>
           <div>
